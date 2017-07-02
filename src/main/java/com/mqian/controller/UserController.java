@@ -12,7 +12,7 @@ import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiImplicitParams;
 import io.swagger.annotations.ApiOperation;
 /**
- * Created by mqian on 2017/7/1.
+ * Created by mqian on 2017/7/1.  test 分支
  */
 @RestController
 @RequestMapping(value = "/UserVos") // 通过这里配置使下面的映射都在/UserVos下，可去除
