@@ -14,9 +14,11 @@ import io.swagger.annotations.ApiOperation;
 /**
  * Created by mqian on 2017/7/1.  test 分支
  *
- * dev-mqian  必须有
+ * 在test分支中创建了一个名字 test
  *
- * dev-mqian  与别的冲突了 不能有
+ * 这句话 是可以同时存在的 必须有
+ *
+ * dev-mqian  必须有
  *
  * dev-mqian 新添加的 必须有
  *
