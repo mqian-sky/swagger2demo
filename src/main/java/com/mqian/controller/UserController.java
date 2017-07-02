@@ -13,6 +13,13 @@ import io.swagger.annotations.ApiImplicitParams;
 import io.swagger.annotations.ApiOperation;
 /**
  * Created by mqian on 2017/7/1.  test 分支
+ *
+ * dev-mqian  必须有
+ *
+ * dev-mqian  与别的冲突了 不能有
+ *
+ * dev-mqian 新添加的 必须有
+ *
  */
 @RestController
 @RequestMapping(value = "/UserVos") // 通过这里配置使下面的映射都在/UserVos下，可去除
